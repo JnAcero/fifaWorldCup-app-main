@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8Wv/+/r8FhANdBjwkrJEZqi+SKO+zcamTysRNcMmrPCeEoQ6gRxSG1ALwkHOb/Ur4Gd8wf9ot7pEvxBzipXcQ==",
+  "success": true,
+  "projectFilePath": "/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/fifaWorldCup-app.csproj",
+  "expectedPackageFiles": [
+    "/home/apolm01-034/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,49 @@
+D:/projectsNetCore/fifaWorldCup-app/bin/Debug/net7.0/fifaWorldCup-app.exe
+D:/projectsNetCore/fifaWorldCup-app/bin/Debug/net7.0/fifaWorldCup-app.deps.json
+D:/projectsNetCore/fifaWorldCup-app/bin/Debug/net7.0/fifaWorldCup-app.runtimeconfig.json
+D:/projectsNetCore/fifaWorldCup-app/bin/Debug/net7.0/fifaWorldCup-app.dll
+D:/projectsNetCore/fifaWorldCup-app/bin/Debug/net7.0/fifaWorldCup-app.pdb
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.csproj.AssemblyReference.cache
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.GeneratedMSBuildEditorConfig.editorconfig
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfoInputs.cache
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfo.cs
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.csproj.CoreCompileInputs.cache
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.dll
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/refint/fifaWorldCup-app.dll
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.pdb
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/fifaWorldCup-app.genruntimeconfig.cache
+D:/projectsNetCore/fifaWorldCup-app/obj/Debug/net7.0/ref/fifaWorldCup-app.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.exe
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.deps.json
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.runtimeconfig.json
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.pdb
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.AssemblyReference.cache
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfoInputs.cache
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfo.cs
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.CoreCompileInputs.cache
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/refint/fifaWorldCup-app.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.pdb
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.genruntimeconfig.cache
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/ref/fifaWorldCup-app.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/atena/Downloads/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.CopyComplete
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.deps.json
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.runtimeconfig.json
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.dll
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/fifaWorldCup-app.pdb
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.AssemblyReference.cache
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfoInputs.cache
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.AssemblyInfo.cs
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.CoreCompileInputs.cache
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.csproj.CopyComplete
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.dll
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/refint/fifaWorldCup-app.dll
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.pdb
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/fifaWorldCup-app.genruntimeconfig.cache
+/home/apolm01-034/Documents/Juan Andres/fifaWorldCup-app-main/obj/Debug/net7.0/ref/fifaWorldCup-app.dll

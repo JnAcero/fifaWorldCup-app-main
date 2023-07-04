@@ -1,0 +1,47 @@
+[
+  {
+    "IdTeam": "001",
+    "NameTeam": "colombia",
+    "Players": [
+      {
+        "IdPlayer": "12",
+        "PositionPlayer": "delantero",
+        "NamePlayer": "falcao",
+        "AgePlayer": 22
+      }
+    ],
+    "Technicals": [],
+    "Medicals": [],
+    "BoardTeam": null
+  },
+  {
+    "IdTeam": "002.",
+    "NameTeam": "argentina",
+    "Players": [
+      {
+        "IdPlayer": "11",
+        "PositionPlayer": "delantero",
+        "NamePlayer": "Messi",
+        "AgePlayer": 32
+      }
+    ],
+    "Technicals": [],
+    "Medicals": [],
+    "BoardTeam": null
+  },
+  {
+    "IdTeam": "003",
+    "NameTeam": "ecuador",
+    "Players": [],
+    "Technicals": [],
+    "Medicals": [
+      {
+        "IdTeamMedical": "1193427712",
+        "NameTeamMedical": "Federico",
+        "RolTeamMedical": "Masajista",
+        "AgeTeamMedical": 43
+      }
+    ],
+    "BoardTeam": null
+  }
+]
